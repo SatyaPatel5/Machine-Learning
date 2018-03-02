@@ -8,7 +8,7 @@ Implementation codes of various machine learning algorithms in python.
 ### Eight Clusters using K Means Clustering Algo:
 ![image](https://user-images.githubusercontent.com/32892410/36913734-eb6cfb92-1e70-11e8-8e51-f39ec6798325.png)
 
-# Regression on 2 features using Statistical Approach
+## Regression on 2 features using Statistical Approach
 ### Input Data:
 ![image](https://user-images.githubusercontent.com/32892410/36913824-241d3f24-1e71-11e8-9272-d8efa19b1057.png)
 ### Fitting a Line using statistical approach
